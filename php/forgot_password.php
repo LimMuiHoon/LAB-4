@@ -19,13 +19,13 @@ if ($conn -> query($sql) ===TRUE && $result->num_rows > 0) {
     sendEmail($email,$tempass);
     echo "The temporary password had been sent, please check your email.";
 } else {
-    echo "Email is does not exist";
+    echo "Email is does not match";
 }
 
-function sendPassword($useremail) {
+function sendEmail($useremail, $tpw) {
     $to         = $useremail;
-    $subject    = 'Verification for MyTradeBarterUser';
-    $message    = 'https://tradebarterflutter.com/mytradebarter(user)%20/php/verify.php?email='.$useremail;
+    $subject    = 'Reset Password for MyTradeBarterUser';
+    $message    = 'Your temporary password is: '.$tpw;
     $headers    = 'From: noreply@MyTradeBarterUser.com.my' . "\r\n" .
     'Reply-To: '.$useremail . "\r\n" .
     'X-Mailer: PHP/' . phpversion();

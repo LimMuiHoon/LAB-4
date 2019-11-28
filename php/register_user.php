@@ -1,13 +1,14 @@
 <?php
 //error_reporting(0);
 include_once ("dbconnect.php");
-$email = $_POST['EMAIL'];
-$password = sha1($_POST['PASSWORD']);
-$phone = $_POST['PHONE'];
-$name = $_POST['NAME'];
+$email = $_POST['email'];
+$password = sha1($_POST['password']);
+$phone = $_POST['phone'];
+$name = $_POST['name'];
+$radius = $_POST['radius'];
 $encoded_string = $_POST["encoded_string"];
 $decoded_string = base64_decode($encoded_string);
-$sqlinsert = "INSERT INTO USER(NAME,EMAIL,PASSWORD,PHONE,VERIFY) VALUES ('$name','$email','$password','$phone','0')";
+$sqlinsert = "INSERT INTO USER(NAME,EMAIL,PASSWORD,PHONE,VERIFY,RADIUS,CREDIT,RATING) VALUES ('$name','$email','$password','$phone','0','$radius','100','5')";
 
 if($conn->query($sqlinsert) === TRUE) {
     $path = '../profile/'.$email.'.jpg';

@@ -1,0 +1,65 @@
+[20-Nov-2019 12:48:28 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function randompassword(), 0 passed in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php on line 11 and exactly 1 expected in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php:5
+Stack trace:
+#0 /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php(11): randompassword()
+#1 {main}
+  thrown in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php on line 5
+[23-Nov-2019 19:06:13 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function randompassword(), 0 passed in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php on line 11 and exactly 1 expected in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php:5
+Stack trace:
+#0 /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php(11): randompassword()
+#1 {main}
+  thrown in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php on line 5
+[23-Nov-2019 19:09:11 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function randompassword(), 0 passed in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php on line 11 and exactly 1 expected in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php:5
+Stack trace:
+#0 /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php(11): randompassword()
+#1 {main}
+  thrown in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php on line 5
+[23-Nov-2019 19:14:56 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function randompassword(), 0 passed in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php on line 11 and exactly 1 expected in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php:5
+Stack trace:
+#0 /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php(11): randompassword()
+#1 {main}
+  thrown in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php on line 5
+[23-Nov-2019 19:35:31 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function randompassword(), 0 passed in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php on line 11 and exactly 1 expected in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php:5
+Stack trace:
+#0 /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php(11): randompassword()
+#1 {main}
+  thrown in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php on line 5
+[23-Nov-2019 19:35:50 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function randompassword(), 0 passed in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php on line 11 and exactly 1 expected in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php:5
+Stack trace:
+#0 /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php(11): randompassword()
+#1 {main}
+  thrown in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php on line 5
+[23-Nov-2019 19:35:53 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function randompassword(), 0 passed in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php on line 11 and exactly 1 expected in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php:5
+Stack trace:
+#0 /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php(11): randompassword()
+#1 {main}
+  thrown in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php on line 5
+[23-Nov-2019 19:48:56 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function randompassword(), 0 passed in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php on line 11 and exactly 1 expected in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php:5
+Stack trace:
+#0 /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php(11): randompassword()
+#1 {main}
+  thrown in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php on line 5
+[23-Nov-2019 23:11:38 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function randompassword(), 0 passed in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php on line 11 and exactly 1 expected in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php:5
+Stack trace:
+#0 /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php(11): randompassword()
+#1 {main}
+  thrown in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php on line 5
+[23-Nov-2019 23:11:42 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function randompassword(), 0 passed in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php on line 11 and exactly 1 expected in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php:5
+Stack trace:
+#0 /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php(11): randompassword()
+#1 {main}
+  thrown in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php on line 5
+[27-Nov-2019 12:19:36 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function randompassword(), 0 passed in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php on line 11 and exactly 1 expected in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php:5
+Stack trace:
+#0 /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php(11): randompassword()
+#1 {main}
+  thrown in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php on line 5
+[27-Nov-2019 20:55:06 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function randompassword(), 0 passed in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php on line 11 and exactly 1 expected in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php:5
+Stack trace:
+#0 /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php(11): randompassword()
+#1 {main}
+  thrown in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php on line 5
+[28-Nov-2019 04:49:21 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function randompassword(), 0 passed in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php on line 11 and exactly 1 expected in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php:5
+Stack trace:
+#0 /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php(11): randompassword()
+#1 {main}
+  thrown in /home2/tradebar/public_html/mytradebarter(user) /php/forgot_password.php on line 5
